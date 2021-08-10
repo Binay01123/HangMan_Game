@@ -12,7 +12,7 @@ lives = 6
 
 print(hangman_art.logo)
 #Testing code
-print(f'Pssst, the solution is {chosen_word}.')
+#print(f'Pssst, the solution is {chosen_word}.')
 
 #empty list for the progress display
 display = []
